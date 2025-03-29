@@ -24,5 +24,4 @@ class Book {
     @Override
     public String toString() {
         return "Book ID: " + ID + ", Title: " + title + ", Author: " + author + ", Available: " + available;
-    }
 }
